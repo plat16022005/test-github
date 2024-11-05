@@ -1,0 +1,5 @@
+chuoi = str(input())
+b=()
+a=chuoi.split(",")
+b=tuple(a)
+print(a,b, sep = ",")
